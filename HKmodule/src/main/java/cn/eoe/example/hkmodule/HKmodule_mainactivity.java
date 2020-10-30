@@ -11,11 +11,11 @@ import cn.eoe.example.hkmodule.util.PlayerBackTime;
 public class HKmodule_mainactivity extends AppCompatActivity {
 
     private String TAG = this.getClass().getSimpleName();
-    private static final String IP_ADDRESS = "10.44.87.180";
+    private static final String IP_ADDRESS = "";
 
     private static final int PORT = 8000;
-    private static final String USER_NAME = "admin";
-    private static final String PASSWORD = "a12345678";
+    private static final String USER_NAME = "";
+    private static final String PASSWORD = "";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
