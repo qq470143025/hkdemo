@@ -12,7 +12,6 @@ public class HKmodule_mainactivity extends AppCompatActivity {
 
     private String TAG = this.getClass().getSimpleName();
     private static final String IP_ADDRESS = "";
-
     private static final int PORT = 8000;
     private static final String USER_NAME = "";
     private static final String PASSWORD = "";
